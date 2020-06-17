@@ -14,4 +14,6 @@ To create a responsive portfolio demonstrating competency using bootstrap's grid
 
 ---
 
+### The Process
+
 - Started by adding the basic construction of a navbar
