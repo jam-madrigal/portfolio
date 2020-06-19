@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/65047802/85181474-dfc07200-b23a-11ea-9dde-dec62f4c31c7.png)
+
 # The task at hand
 
 To create a responsive portfolio demonstrating competency using bootstrap's grid layout, bootstrap components, and media queries to neatly resize a page and its elements depending on screen size.
