@@ -1,24 +1,24 @@
+/* Navbar stuff */
 .nav-link {
     color:white;
 }
 
+.navbar-brand {
+
+}
+
+/* Pseudoclasses */
 a:hover {
     color:silver;
 }
 
+/* Images */
 img {
     margin-right: 10px;
 }
 
-/* Experimental */
-
-/* .container {
-    float: inline-start;
-    width: 80%;
-    margin-top: 20px;
-    margin-left: 17px;
+/* IDs */
+#aboutme {
+    padding-top: ;
 }
 
-#aboutme {
-    margin-top: 40px;
-} */
