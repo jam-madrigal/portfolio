@@ -8,7 +8,7 @@ To create a responsive portfolio demonstrating competency using bootstrap's grid
 
 ## Requirements
 
-1. A functioning and consistent nav bar which properly links to a home/about me page, a contact info page, and a portfolio page
+1. A functioning and consistent nav bar which properly links to a home/about me page, a contact info page, and a portfolio page using components from bootstrap
 2. A responsive layout
 3. Responsive images
 4. Semantic HTML
