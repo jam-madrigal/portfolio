@@ -19,6 +19,11 @@
 }
 .nav-link {
     color:white;
+    border-right: solid silver;
+}
+
+#navnoborder {
+    border-right: 0;
 }
 
 /* Container */
