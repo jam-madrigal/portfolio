@@ -18,6 +18,7 @@ To create a responsive portfolio demonstrating competency using bootstrap's grid
 
 - Started by adding the basic construction of a navbar
 - Create a div for the about me section
-- Create a footer
+- Create a fixed footer
 - Create a consistent style and theme for the webpages
+- Once the about me page was finished, that framework was transferred to the other two pages
 - Rearrange content as desired whilst checking for responsiveness
