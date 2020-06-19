@@ -1,21 +1,21 @@
 /* Navbar stuff */
 .navbar {
-    background-color: rgb(48, 26, 62)
-}
-
-.navbar-dark {
-    background-color: rgb(48, 26, 62)
-}
-
-.bg {
-    background-color: rgb(48, 26, 62)
-}
-.nav-link {
-    color:white;
+    background-color:#4F3466FF
 }
 
 .navbar-brand {
-    background-color: rgb(131, 51, 177)
+    background-color: #9F6B99FF
+}
+
+.navbar-dark {
+    background-color: rgb(48, 26, 62);
+}
+
+.bg {
+    background-color: rgb(48, 26, 62);
+}
+.nav-link {
+    color:white;
 }
 
 /* Container */
@@ -25,7 +25,7 @@
 
 /* Body */
 body {
-    background-color:silver
+    background-color: silver;
 }
 /* Pseudoclasses */
 a:hover {
@@ -39,6 +39,7 @@ img {
 
 /* IDs */
 #aboutme {
-    padding-top: ;
+    margin: auto;
+    margin-top: 30px;
 }
 
