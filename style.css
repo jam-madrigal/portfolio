@@ -43,7 +43,12 @@ img {
 /* IDs */
 #aboutme {
     background-color: white;
+    margin: auto;
     margin-top: 30px;
-    
+}
+
+#aboutme h1 {
+    border-bottom: solid silver;
+    padding-bottom: 10px;
 }
 
