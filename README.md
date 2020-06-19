@@ -24,3 +24,4 @@ To create a responsive portfolio demonstrating competency using bootstrap's grid
 - Rearrange content as desired whilst checking for responsiveness
 - Quickly discovering that making sure the size of everything is acceptable on most devices is quite the challenge... Many hours on this alone
 - Added current contact information
+- Updated the aboutme section with a photo and brief paragraph
