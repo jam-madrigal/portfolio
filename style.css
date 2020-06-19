@@ -20,7 +20,7 @@
 
 /* Container */
 .container {
-    background-color: white;
+    
 }
 
 /* Body */
@@ -34,12 +34,15 @@ a:hover {
 
 /* Images */
 img {
-    margin-right: 10px;
+    margin-right: 15px;
 }
 
 /* IDs */
 #aboutme {
+    background-color: white;
+    width: 80%;
     margin: auto;
     margin-top: 30px;
+;
 }
 
