@@ -37,7 +37,7 @@ body {
 }
 
 /* Footer */
-.footer {
+footer {
     font-family: 'Courier New', Courier, monospace;
     position: fixed;
     left: 0;
