@@ -6,6 +6,10 @@ a:hover {
     color:silver;
 }
 
+img {
+    margin-right: 10px;
+}
+
 /* Experimental */
 
 /* .container {
