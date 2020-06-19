@@ -18,6 +18,15 @@
     background-color: rgb(131, 51, 177)
 }
 
+/* Container */
+.container {
+    background-color: white;
+}
+
+/* Body */
+body {
+    background-color:silver
+}
 /* Pseudoclasses */
 a:hover {
     color:silver;
