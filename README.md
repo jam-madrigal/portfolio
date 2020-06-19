@@ -22,3 +22,4 @@ To create a responsive portfolio demonstrating competency using bootstrap's grid
 - Create a consistent style and theme for the webpages
 - Once the about me page was finished, that framework was transferred to the other two pages
 - Rearrange content as desired whilst checking for responsiveness
+- Quickly discovering that making sure the size of everything is acceptable on most devices is quite the challenge...
