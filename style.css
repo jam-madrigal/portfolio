@@ -1,10 +1,13 @@
 /* Navbar stuff */
 .navbar {
-    background-color:#4F3466FF
+    background-color:#4F3466FF;
+    padding: 0;
 }
 
 .navbar-brand {
-    background-color: #9F6B99FF
+    background-color: #9F6B99FF;
+    margin-left: 50px;
+    padding: 20px;
 }
 
 .navbar-dark {
@@ -40,7 +43,7 @@ img {
 /* IDs */
 #aboutme {
     background-color: white;
-    margin: auto;
     margin-top: 30px;
+    
 }
 
