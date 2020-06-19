@@ -38,16 +38,16 @@ body {
 
 /* Footer */
 .footer {
+    font-family: 'Courier New', Courier, monospace;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
     background-color:#4F3466FF;
-    color: silver;
+    color: white;
     border-top: 8px solid #9F6B99FF;
     padding: 10px;
-    
 }
 
 /* Pseudoclasses */
