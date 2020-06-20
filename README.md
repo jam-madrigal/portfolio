@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/65047802/85181474-dfc07200-b23a-11ea-9dde-dec62f4c31c7.png)
+![image](https://user-images.githubusercontent.com/65047802/85195591-ad3d6600-b288-11ea-86bf-58364d69b535.png)
 
 # The task at hand
 
