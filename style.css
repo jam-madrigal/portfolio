@@ -37,6 +37,23 @@ body {
 }
 
 /* Footer */
+/* Fix that keeps the footer where it belongs */
+#pagecontainer {
+    position: relative;
+    min-height: 7vh;
+}
+  
+ #contentwrap {
+    padding-bottom: 2.5rem;    
+}
+  
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            
+}
+
 footer {
     font-family: 'Courier New', Courier, monospace;
     position: fixed;
@@ -91,9 +108,9 @@ img {
 }
 
 #portfolio img {
-    padding-top: 20px;
+    padding-top: 10px;
     padding-right: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 #portfolio p {
@@ -101,7 +118,7 @@ img {
 }
 
 /* IDs to add a banner to each portfolio image in the future, for when I figure out how to further customize with labels/banners*/
-#pimg1 {
+/* #pimg1 {
    
 }
 
@@ -123,4 +140,4 @@ img {
 
 #pimg6 {
 
-}
+} */
