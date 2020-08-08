@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/65047802/85195591-ad3d6600-b288-11ea-86bf-58364d69b535.png)
+<!-- ![image](https://user-images.githubusercontent.com/65047802/85195591-ad3d6600-b288-11ea-86bf-58364d69b535.png) -->
+![image](https://user-images.githubusercontent.com/65047802/89701933-9ca48600-d8f0-11ea-9485-6556886fdb3c.png)
 
 # The task at hand
 
@@ -28,3 +29,4 @@ To create a responsive portfolio demonstrating competency using bootstrap's grid
 - Added current contact information
 - Updated the aboutme section with a photo and brief paragraph
 - Validated the html with a validator service from w3.org
+- Updated the portfolio to include pictures of the projects and links to their repositories
